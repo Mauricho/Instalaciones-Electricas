@@ -10,7 +10,7 @@ Profesores:
 * Mangin, Matias Eduardo
 
 ## Trabajo N° 1:
-- [Resolución]()
+- [Resolución](Trabajos/1/Tarea1.pdf)
 
 ## Trabajo N° 2:
 - [Resolución]()
