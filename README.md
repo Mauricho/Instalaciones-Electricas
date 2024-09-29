@@ -1,25 +1,33 @@
 # Instalaciones Eléctricas
 
-En el siguiente repositorio encontrará los trabajos prácticos, informes y tareas de la materia Instalaciones Eléctricas.
+En este repositorio encontrarás los trabajos prácticos, informes y tareas de la materia **Instalaciones Eléctricas**.
 
-Profesores:
+## Profesores:
 * Cirbian, Sergio
 * Ferrari, Carlos Eduardo
 * Freguglia, Francisco
 * Madussi, Lucio Fernando
-* Mangin, Matias Eduardo
+* Mangin, Matías Eduardo
 
-## Trabajo N° 1:
-- [Resolución](Trabajos/1/Tarea1.pdf)
+## Trabajos Prácticos
 
-## Trabajo N° 2:
+### Trabajo N° 1 - Iluminotecnia:
+- [Resolución](Trabajos/Iluminotecnia/Tarea1.pdf)
+
+### Trabajo N° 2:
 - [Resolución]()
 
-## Trabajo N° 3:
+### Trabajo N° 3 - Protección contra descargas atmosféricas:
+- [Resolución](Trabajos/ProtecciónContraDescargasAtmosféricas/Tarea2.pdf)
+
+### Trabajo N° 4 - PLC:
+- [Resolución](Trabajos/PLC/Tarea4.pdf)
+- [Archivos Twido Suite](Trabajos/PLC/Mezclador-Montacargas-TwidoSuite.rar)
+- [Simulación Mezclador - CADe_SIMU y PC_SIMU](Trabajos/PLC/Simulacion%20Mezclador)
+- [Simulación Montacarga - CADe_SIMU y PC_SIMU](Trabajos/PLC/Simulacion%20Montacarga)
+
+### Trabajo N° 5:
 - [Resolución]()
 
-## Trabajo N° 4:
-- [Resolución]()
-
-## Trabajo N° 5:
+### Trabajo N° 6:
 - [Resolución]()
