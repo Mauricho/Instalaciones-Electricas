@@ -18,7 +18,7 @@ En este repositorio encontrarás los trabajos prácticos, informes y tareas de l
 - [Resolución]()
 
 ### Trabajo N° 3 - Protección contra descargas atmosféricas:
-- [Resolución](Trabajos/ProtecciónContraDescargasAtmosféricas/Tarea2.pdf)
+- [Resolución](Trabajos/ProtecciónContraDescargasAtmosféricas/Tarea3.pdf)
 
 ### Trabajo N° 4 - PLC:
 - [Resolución](Trabajos/PLC/Tarea4.pdf)
