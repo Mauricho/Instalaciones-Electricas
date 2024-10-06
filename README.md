@@ -14,8 +14,8 @@ En este repositorio encontrarás los trabajos prácticos, informes y tareas de l
 ### Trabajo N° 1 - Iluminotecnia:
 - [Resolución](Trabajos/Iluminotecnia/Tarea1.pdf)
 
-### Trabajo N° 2:
-- [Resolución]()
+### Trabajo N° 2 - Calculo de secciones de conductores:
+- [Resolución](Trabajos/CalculoConductores/Tarea2.pdf)
 
 ### Trabajo N° 3 - Protección contra descargas atmosféricas:
 - [Resolución](Trabajos/ProtecciónContraDescargasAtmosféricas/Tarea3.pdf)
