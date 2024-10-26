@@ -26,8 +26,8 @@ En este repositorio encontrarás los trabajos prácticos, informes y tareas de l
 - [Simulación Mezclador - CADe_SIMU y PC_SIMU](Trabajos/PLC/Simulacion%20Mezclador)
 - [Simulación Montacarga - CADe_SIMU y PC_SIMU](Trabajos/PLC/Simulacion%20Montacarga)
 
-### Trabajo N° 5:
-- [Resolución]()
+### Trabajo N° 5 - Corrección del factor de potencia:
+- [Resolución](Trabajos/CorreccionFactorDePotencia/Tarea5.pdf)
 
 ### Trabajo N° 6:
 - [Resolución]()
