@@ -28,6 +28,3 @@ En este repositorio encontrarás los trabajos prácticos, informes y tareas de l
 
 ### Trabajo N° 5 - Corrección del factor de potencia:
 - [Resolución](Trabajos/CorreccionFactorDePotencia/Tarea5.pdf)
-
-### Trabajo N° 6:
-- [Resolución]()
