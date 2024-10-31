@@ -22,7 +22,7 @@ En este repositorio encontrarás los trabajos prácticos, informes y tareas de l
 
 ### Trabajo N° 4 - PLC:
 - [Resolución](Trabajos/PLC/Tarea4.pdf)
-- [Archivos Twido Suite](Trabajos/PLC/Mezclador-Montacargas-TwidoSuite.rar)
+- [Archivos Twido Suite](Trabajos/PLC/Mezclador-Montacargas-BombaAgua-UPS-TwidoSuite.zip)
 - [Simulación Mezclador - CADe_SIMU y PC_SIMU](Trabajos/PLC/Simulacion%20Mezclador)
 - [Simulación Montacarga - CADe_SIMU y PC_SIMU](Trabajos/PLC/Simulacion%20Montacarga)
 
